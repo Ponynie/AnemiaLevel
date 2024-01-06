@@ -1,0 +1,29 @@
+Age in 5-year groups,Type of place of residence,Highest educational level,Wealth index combined,Births in last five years,Age of respondent at 1st birth,Hemoglobin level adjusted for altitude and smoking,Have mosquito bed net for sleeping (from household questionnaire),Smokes cigarettes,Currently residing with husband/partner,Had fever in last two weeks,"Taking iron pills, sprinkles or syrup",Prediction,confidence 0,confidence 1,confidence 2,confidence 3
+22.0,Rural,No education,Poorest,2,19,105.0,Yes,No,Living with her,No,No,Moderate,0.07146412,0.7567386,-0.20208757,-1.3690109
+42.0,Rural,Primary,Richest,1,34,107.0,No,No,Living with her,Yes,Yes,Not anemic,0.98272216,0.5458555,1.222718,-3.009751
+17.0,Rural,No education,Poorer,1,16,101.0,No,No,Living with her,Yes,No,Moderate,-0.09338403,0.8471122,-0.5061994,-0.90647846
+22.0,Urban,Secondary,Middle,2,17,116.0,No,No,Living with her,No,Yes,Moderate,0.19226006,0.46045724,0.42085463,-2.4719214
+37.0,Urban,Secondary,Richer,2,22,137.0,Yes,No,Living with her,No,No,Not anemic,0.65972227,0.5657302,1.0900207,-2.4438732
+37.0,Urban,Primary,Richer,1,20,117.0,Yes,No,Living with her,Yes,Yes,Moderate,0.16782954,0.7404738,-0.013729319,-1.9619675
+22.0,Rural,No education,Poorest,2,18,89.0,Yes,No,Living with her,No,No,Moderate,-0.0064336807,0.7788893,-0.364096,-1.1971707
+27.0,Rural,Primary,Poorer,2,13,115.0,No,No,Living with her,No,No,Moderate,0.25323832,0.5696131,0.3322038,-1.8357627
+32.0,Rural,Primary,Poorer,1,18,125.0,Yes,No,Staying elsewhere,No,No,Not anemic,0.34084386,0.52678746,0.5422704,-2.094853
+32.0,Rural,No education,Poorest,2,16,121.0,No,No,Living with her,Yes,No,Moderate,0.038280174,0.6397229,-0.1529056,-1.4644802
+22.0,Urban,No education,Middle,2,17,116.0,No,No,Living with her,No,No,Not anemic,0.5525166,0.65037143,1.1681712,-4.4630103
+22.0,Urban,Primary,Poorer,2,15,115.0,Yes,No,Living with her,No,No,Moderate,0.31302652,0.65660036,0.36143434,-2.0397344
+27.0,Urban,Secondary,Richer,2,22,118.0,Yes,No,Living with her,No,Yes,Moderate,0.3466978,0.5615487,0.46434093,-2.27184
+37.0,Rural,No education,Richer,1,18,127.0,No,No,Living with her,No,No,Not anemic,0.7530862,0.55481017,1.0549484,-2.510918
+32.0,Rural,No education,Poorest,2,19,102.0,Yes,No,Living with her,No,No,Moderate,0.053921267,0.76190674,-0.25345886,-1.3731098
+32.0,Urban,Secondary,Richest,1,14,73.0,No,No,Living with her,Yes,No,Moderate,-0.077162474,0.5499661,-0.26115978,-1.8281503
+27.0,Rural,No education,Poorest,2,17,143.0,Yes,No,Living with her,No,No,Moderate,0.15243885,0.6105453,0.14728832,-2.058095
+22.0,Rural,No education,Poorer,1,17,122.0,No,Yes,Living with her,Yes,Yes,Moderate,-0.09720078,0.8083614,-0.42026383,-1.1127503
+17.0,Urban,Primary,Richer,1,17,103.0,No,No,Living with her,No,No,Moderate,0.35395253,0.7337937,0.39741057,-2.2036984
+27.0,Rural,Secondary,Richest,2,22,122.0,No,No,Living with her,No,Yes,Not anemic,0.70462173,0.5539219,1.0131793,-2.619377
+27.0,Rural,Secondary,Richer,2,22,113.0,Yes,No,Living with her,No,No,Not anemic,0.406933,0.5424263,0.5667172,-1.9816065
+27.0,Urban,No education,Richer,1,17,137.0,No,No,Staying elsewhere,No,No,Not anemic,0.92142326,0.5626963,1.3942006,-2.651062
+37.0,Rural,No education,Poorer,2,20,98.0,Yes,No,Living with her,Yes,No,Moderate,-0.13921869,0.7110625,-0.5006322,-1.1015484
+32.0,Urban,Secondary,Richest,2,25,115.0,No,No,Living with her,No,No,Not anemic,0.81181157,0.6387807,1.2714075,-2.7229438
+37.0,Urban,Higher,Richest,2,26,125.0,Yes,No,Living with her,No,Yes,Not anemic,1.6621602,0.904186,2.2076662,-5.065828
+37.0,Urban,No education,Richer,1,13,120.0,No,No,Living with her,No,No,Not anemic,0.90244234,0.6660486,1.2582808,-2.7914052
+22.0,Urban,Higher,Richer,2,14,124.0,No,No,Living with her,Yes,No,Not anemic,0.83832026,0.6945977,1.1169602,-3.6350539
+22.0,Rural,Secondary,Poorer,2,20,104.0,No,No,Living with her,Yes,No,Moderate,-0.03172964,0.65129745,-0.27534252,-1.3076506
